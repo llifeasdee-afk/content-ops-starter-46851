@@ -251,7 +251,7 @@ sections:
       type: VideoBlock
       autoplay: false
       loop: true
-      muted: true
+      muted: false
     badge:
       label: Key Benefits
       color: text-primary
