@@ -234,7 +234,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://vimeo.com/1118407636?share=copy'
       controls: false
       aspectRatio: '16:9'
       styles:
