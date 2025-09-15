@@ -23,7 +23,7 @@
     "secondaryLinks": [
         {
             "label": "Inquire",
-            "altText": "Sign up",
+            "altText": "Inquire",
             "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSttiWw6rSfZAOnOw9ApaSj1Y1dH4qmQ83WftT8IXxUbvYFw/viewform?usp=dialog",
             "icon": "arrowRight",
             "iconPosition": "right",
