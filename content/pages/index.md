@@ -275,7 +275,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: "I started Goudeau Property Solutions LLC because I saw how stressful and uncertain property ownership can be. Too often, landlords deal with unreliable tenants, inconsistent income, and the constant worry of keeping their property secure. My mission is to change that.With Goudeau Property Solutions, landlords get peace of mind: guaranteed rent, proactive security, and hands-on property care. This business isn’t just about managing rentals—it’s about protecting investments and creating long-term stability for the property owners we work with.–\_Demourion Goudeau, Founder"
+      - title: "I started Goudeau Property Solutions LLC to give landlords peace of mind. Too often, property ownership comes with stress, uncertainty, and risk. My goal is simple: provide guaranteed rent, strong security, and dependable care so your investment is always protected and profitable.–\_Demourion Goudeau, Founder"
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
