@@ -59,10 +59,9 @@ sections:
       - type: FeaturedItem
         title: Security
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Your property is protected with noise monitoring, Ring cameras at
+          every entry, and proactive oversight.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
