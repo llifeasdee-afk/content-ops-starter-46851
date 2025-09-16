@@ -339,7 +339,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Market Knowledge
-        tagline: This is the tagline
+        tagline: ''
         subtitle: 'Maximizing Value, Every Step'
         text: >
           Our expertise allows us to position your property competitively and
