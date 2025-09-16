@@ -32,7 +32,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'ThisYour Investment, Secured'
+      label: 'Your Investment, Secured'
       color: text-primary
       type: Badge
     elementId: ''
