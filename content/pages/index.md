@@ -273,7 +273,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: A Message From Our Founder
     items:
       - title: >-
           I started Goudeau Property Solutions LLC to give landlords peace of
