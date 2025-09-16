@@ -320,9 +320,6 @@ sections:
         text: >
           We ensure only qualified, respectful guests stay in your property with
           strict vetting and monitoring.
-
-
-          ****
         image:
           url: /images/tenant-screening-california.jpeg
           altText: Placeholder Image
