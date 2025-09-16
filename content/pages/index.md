@@ -132,7 +132,8 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - type: Button
+        label: Get started
         altText: ''
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
@@ -141,7 +142,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-        type: Button
     badge:
       label: ''
       color: text-primary
