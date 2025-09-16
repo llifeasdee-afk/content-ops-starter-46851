@@ -363,7 +363,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Hands Off Experience
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Returns Without the Headaches
         text: >
           From rent collection to maintenance, we handle everything—so you enjoy
