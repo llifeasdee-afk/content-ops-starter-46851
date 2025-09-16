@@ -411,11 +411,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Goudeau Property Solutions LLC provides landlords with guaranteed rental
+      income, reliable property security, and hands-on care. We make property
+      ownership simple, stress-free, and consistently profitable.
     media:
       fields:
         - name: name
