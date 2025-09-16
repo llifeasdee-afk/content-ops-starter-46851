@@ -312,7 +312,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: BLet’s Work Together
+    subtitle: Let’s Work Together
     items:
       - title: Feature Item One
         tagline: This is the tagline
