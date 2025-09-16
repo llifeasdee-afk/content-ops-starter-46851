@@ -272,12 +272,7 @@ sections:
     title: null
     subtitle: A Word From Our Founder
     items:
-      - title: >-
-          I started Goudeau Property Solutions LLC to give landlords peace of
-          mind. Too often, property ownership comes with stress, uncertainty,
-          and risk. My goal is simple: provide guaranteed rent, strong security,
-          and dependable care so your investment is always protected and
-          profitable.
+      - title: "I\_I started Goudeau Property Solutions LLC to give landlords peace of mind. Too often, ownership comes with stress, uncertainty, and risk. My goal is simple: provide guaranteed rent, strong security, and dependable care so your investment is always protected and profitable."
         tagline: Testimonial 1
         subtitle: 'Demourion Goudeau, Founder'
         text: ''
