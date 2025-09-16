@@ -227,9 +227,7 @@ sections:
       Take the first step toward stress-free property management. During this
       call, we’ll discuss your property, your goals as a landlord, and how
       Goudeau Property Solutions LLC can provide guaranteed income, reliable
-      security, and ongoing care. This consultation is designed to answer your
-      questions and show you how partnering with us can protect your investment
-      while keeping your returns consistent.
+      security, and ongoing care.
     actions:
       - label: Get started
         url: >-
