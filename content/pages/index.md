@@ -314,7 +314,7 @@ sections:
       type: TitleBlock
     subtitle: Let’s Work Together
     items:
-      - title: Feature Item One
+      - title: Tenant Screening
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
