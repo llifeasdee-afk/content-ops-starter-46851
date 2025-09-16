@@ -181,9 +181,8 @@ sections:
       type: TitleBlock
     subtitle: A Committed Partner
     text: >
-      We don’t just manage properties—we partner with landlords to protect
-      investments and ensure steady growth. Our mission is to give you income
-      you can count on, security you can trust, and property care that lasts.
+      We don’t just manage—we partner. Our mission is to give landlords income
+      they can count on, security they can trust, and property care that lasts.
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
