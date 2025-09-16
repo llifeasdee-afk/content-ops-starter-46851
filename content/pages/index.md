@@ -344,8 +344,9 @@ sections:
       - title: Market Knowledge
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Our expertise allows us to position your property competitively and
+          maximize its earning potential.
         image:
           url: /images/1728693200762.png
           altText: Placeholder image
