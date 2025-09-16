@@ -180,11 +180,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: A Committed Partner
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We don’t just manage properties—we partner with landlords to protect
+      investments and ensure steady growth. Our mission is to give you income
+      you can count on, security you can trust, and property care that lasts.
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
