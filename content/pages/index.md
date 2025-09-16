@@ -285,7 +285,7 @@ sections:
         subtitle: 'Demourion Goudeau, Founder'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/29485A25-F626-4AB3-811B-653859CB998C.PNG
           altText: Maria Walters
           styles:
             self:
