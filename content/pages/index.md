@@ -173,7 +173,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Why Work With Us
       color: text-dark
       styles:
         self:
