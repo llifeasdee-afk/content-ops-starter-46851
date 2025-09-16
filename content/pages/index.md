@@ -364,8 +364,8 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          From rent collection to maintenance, we handle everything—so you enjoy
+          returns without the stress.
         image:
           url: >-
             /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
