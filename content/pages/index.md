@@ -315,7 +315,7 @@ sections:
     subtitle: Let’s Work Together
     items:
       - title: Tenant Screening
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Trust Starts With Who’s Inside
         text: >
           We ensure only qualified, respectful guests stay in your property with
