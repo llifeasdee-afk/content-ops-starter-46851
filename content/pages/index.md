@@ -360,7 +360,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Hands Off Experience
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
