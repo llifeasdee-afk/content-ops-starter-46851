@@ -220,7 +220,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Schedule A Consultation
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
