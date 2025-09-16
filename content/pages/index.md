@@ -340,7 +340,7 @@ sections:
         type: FeaturedItem
       - title: Market Knowledge
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Maximizing Value, Every Step'
         text: >
           Our expertise allows us to position your property competitively and
           maximize its earning potential.
