@@ -54,7 +54,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Smart Property Management
     items:
       - type: FeaturedItem
         title: Security
