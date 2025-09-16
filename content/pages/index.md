@@ -86,10 +86,9 @@ sections:
               borderRadius: x-large
       - title: Stability
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We guarantee consistent rent payments—always on time, sometimes months
+          in advance—so you’ll never worry about vacancies or late tenants.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
