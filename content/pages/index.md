@@ -410,7 +410,7 @@ sections:
       text: Contact Us
       color: text-dark
       type: TitleBlock
-    subtitle: Se
+    subtitle: Partner With Confidence
     text: >
       Goudeau Property Solutions LLC provides landlords with guaranteed rental
       income, reliable property security, and hands-on care. We make property
