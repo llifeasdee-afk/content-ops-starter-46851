@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We transform rentals into worry-free investments.
+
+      Our team provides hands-on property management designed to protect your
+      asset, maximize returns, and deliver a seamless experience. With
+      guaranteed rent, advanced security, and ongoing property care, we make
+      ownership simple and stress-free.
     actions:
       - label: Get started
         altText: ''
