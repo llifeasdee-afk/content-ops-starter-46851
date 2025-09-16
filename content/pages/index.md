@@ -113,7 +113,7 @@ sections:
         text: >
           From professional cleanings to preventative maintenance and
           inspections, we keep your property in top condition while preserving
-          its long-term value.
+          long-term value.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
