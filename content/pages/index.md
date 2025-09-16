@@ -317,8 +317,12 @@ sections:
       - title: Tenant Screening
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We ensure only qualified, respectful guests stay in your property with
+          strict vetting and monitoring.
+
+
+          ****
         image:
           url: /images/tenant-screening-california.jpeg
           altText: Placeholder Image
