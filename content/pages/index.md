@@ -110,10 +110,10 @@ sections:
         type: FeaturedItem
       - title: Care
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From professional cleanings to preventative maintenance and
+          inspections, we keep your property in top condition while preserving
+          its long-term value.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
