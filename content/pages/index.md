@@ -277,7 +277,7 @@ sections:
     items:
       - title: "I started Goudeau Property Solutions LLC to give landlords peace of mind. Too often, property ownership comes with stress, uncertainty, and risk. My goal is simple: provide guaranteed rent, strong security, and dependable care so your investment is always protected and profitable.–\_Demourion Goudeau, Founder"
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Demourion Goudeau, Founder'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
