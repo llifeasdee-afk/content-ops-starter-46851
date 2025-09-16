@@ -364,7 +364,7 @@ sections:
         type: FeaturedItem
       - title: Hands Off Experience
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Returns Without the Headaches
         text: >
           From rent collection to maintenance, we handle everything—so you enjoy
           returns without the stress.
