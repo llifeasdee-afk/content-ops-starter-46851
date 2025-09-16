@@ -234,7 +234,8 @@ sections:
         style: secondary
         type: Button
       - label: Learn More
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
         showIcon: true
         icon: arrowRight
         iconPosition: right
