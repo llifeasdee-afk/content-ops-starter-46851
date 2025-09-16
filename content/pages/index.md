@@ -263,7 +263,8 @@ sections:
       businesses.
     actions:
       - label: Get started
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
         icon: arrowRight
         iconPosition: right
         style: secondary
