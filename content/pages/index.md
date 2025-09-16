@@ -306,7 +306,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: More Reasons to Choose Us
       color: text-primary
       styles:
         self:
