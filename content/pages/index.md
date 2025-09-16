@@ -316,7 +316,7 @@ sections:
     items:
       - title: Tenant Screening
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Trust Starts With Who’s Inside
         text: >
           We ensure only qualified, respectful guests stay in your property with
           strict vetting and monitoring.
