@@ -220,7 +220,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Relocation & Long-Term Travelers
         price: ''
         details: per month
         description: >
