@@ -417,9 +417,12 @@ sections:
       type: TitleBlock
     subtitle: Partner With Confidence
     text: >
-      Goudeau Property Solutions LLC provides landlords with guaranteed rental
-      income, reliable property security, and hands-on care. We make property
-      ownership simple, stress-free, and consistently profitable.
+      With Goudeau Property Solutions LLC, your property is more than a
+      rental—it’s a secured, income-producing investment.
+
+
+      We guarantee your earnings, safeguard your asset, and manage every aspect
+      of operations.
     media:
       fields:
         - name: name
