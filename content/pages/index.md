@@ -255,7 +255,7 @@ sections:
       - type: PricingPlan
         title: Government & Specialized Guests
         price: '3.'
-        details: per month
+        details: ''
         description: >
           We work with government employees, consultants, and specialized
           professionals who require short-to-medium term housing. These guests
