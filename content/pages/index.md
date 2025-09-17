@@ -223,9 +223,10 @@ sections:
         title: Professional
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our properties serve individuals and families relocating for work,
+          education, or personal reasons. We also host long-term travelers who
+          seek a stable, well-maintained environment during their stay.
         features:
           - Feature one
           - Feature two
