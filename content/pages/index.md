@@ -221,7 +221,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: $99
+        price: ''
         details: per month
         description: >
           Our properties serve individuals and families relocating for work,
