@@ -175,60 +175,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Why Work With Us
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: A Committed Partner
-    text: >
-      At Goudeau Property Solutions LLC, we go beyond traditional property
-      management. We don’t just collect rent or oversee tenants—we create a
-      partnership with landlords built on consistency, trust, and long-term
-      success.
-
-
-      Our approach guarantees predictable income, safeguards your property with
-      advanced protections, and ensures that every guest is carefully screened.
-      With us, you don’t just own a rental—you own a secured investment that
-      generates reliable returns while staying in excellent condition.
-    media:
-      title: Title of the video
-      url: 'https://vimeo.com/1118407636?share=copy'
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: false
-      loop: true
-      muted: false
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: PricingSection
     title:
       type: TitleBlock
@@ -342,6 +288,60 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Why Work With Us
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: A Committed Partner
+    text: >
+      At Goudeau Property Solutions LLC, we go beyond traditional property
+      management. We don’t just collect rent or oversee tenants—we create a
+      partnership with landlords built on consistency, trust, and long-term
+      success.
+
+
+      Our approach guarantees predictable income, safeguards your property with
+      advanced protections, and ensures that every guest is carefully screened.
+      With us, you don’t just own a rental—you own a secured investment that
+      generates reliable returns while staying in excellent condition.
+    media:
+      title: Title of the video
+      url: 'https://vimeo.com/1118407636?share=copy'
+      controls: true
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: false
+      loop: true
+      muted: false
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - title:
       text: Schedule A Consultation
       color: text-dark
