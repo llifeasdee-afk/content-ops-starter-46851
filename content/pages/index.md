@@ -9,12 +9,15 @@ sections:
       type: TitleBlock
     subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
     text: >
-      We transform rentals into worry-free investments.
+      At Goudeau Property Solutions LLC, we transform residential rentals into
+      reliable, worry-free investments. By leasing your property and managing
+      every detail of short-term rental operations, we guarantee consistent
+      income and total peace of mind.
 
-      Our team provides hands-on property management designed to protect your
-      asset, maximize returns, and deliver a seamless experience. With
-      guaranteed rent, advanced security, and ongoing property care, we make
-      ownership simple and stress-free.
+
+      Our model ensures predictable payments—sometimes months in advance—while
+      we handle everything from marketing to maintenance. With us, you receive
+      the benefits of ownership without the headaches of management.
     actions:
       - label: Get started
         altText: ''
@@ -60,8 +63,8 @@ sections:
         title: Security
         subtitle: ''
         text: >
-          Your property is protected with noise monitoring, Ring cameras at
-          every entry, and proactive oversight.
+          Your property is protected with entryway cameras, noise monitoring,
+          and proactive oversight.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -111,9 +114,9 @@ sections:
       - title: Care
         subtitle: ''
         text: >
-          From professional cleanings to preventative maintenance and
-          inspections, we keep your property in top condition while preserving
-          long-term value.
+          With contractor-led maintenance, professional cleanings, and
+          inspections, your property stays in excellent condition while
+          preserving long-term value.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -172,6 +175,122 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Who We House
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is the subtitle for the pricing section
+    plans:
+      - type: PricingPlan
+        title: Medical & Corporate Professionals
+        price: ''
+        details: ''
+        description: >
+          We provide housing for traveling nurses, doctors, and medical staff,
+          as well as business executives and corporate employees on temporary
+          assignments. These guests are reliable, responsible, and often booked
+          for extended stays.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Professional
+        price: $99
+        details: per month
+        description: >
+          Our properties serve individuals and families relocating for work,
+          education, or personal reasons. We also host long-term travelers who
+          seek a stable, well-maintained environment during their stay.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Enterprise
+        price: Custom
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+          - Feature five
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Why Work With Us
       color: text-dark
@@ -181,8 +300,16 @@ sections:
       type: TitleBlock
     subtitle: A Committed Partner
     text: >
-      We don’t just manage—we partner. Our mission is to give landlords income
-      they can count on, security they can trust, and property care that lasts.
+      At Goudeau Property Solutions LLC, we go beyond traditional property
+      management. We don’t just collect rent or oversee tenants—we create a
+      partnership with landlords built on consistency, trust, and long-term
+      success.
+
+
+      Our approach guarantees predictable income, safeguards your property with
+      advanced protections, and ensures that every guest is carefully screened.
+      With us, you don’t just own a rental—you own a secured investment that
+      generates reliable returns while staying in excellent condition.
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
@@ -270,9 +397,16 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: A Word From Our Founder
+    subtitle: >-
+      Goudeau Property Solutions LLC was founded on a simple principle:
+      landlords should enjoy the rewards of property ownership without the
+      risks.
     items:
-      - title: "I\_I started Goudeau Property Solutions LLC to give landlords peace of mind. Too often, ownership comes with stress, uncertainty, and risk. My goal is simple: provide guaranteed rent, strong security, and dependable care so your investment is always protected and profitable."
+      - title: >-
+          “Too often, property owners face uncertainty, vacancies, and stress. I
+          started Goudeau Property Solutions LLC to remove those
+          challenges—guaranteeing income, protecting every asset, and delivering
+          a hands-off experience landlords can rely on.”
         tagline: Founder Message
         subtitle: 'Demourion Goudeau, Founder'
         text: ''
@@ -400,37 +534,47 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Contact Us
-      color: text-dark
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Partner With Confidence
-    text: >
-      Goudeau Property Solutions LLC provides landlords with guaranteed rental
-      income, reliable property security, and hands-on care. We make property
-      ownership simple, stress-free, and consistently profitable.
+      text: Generic Section With A Form
+      color: text-dark
+    subtitle: Section with a form subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
-          type: EmailFormControl
-        - name: message
+        - type: TextareaFormControl
+          name: message
           label: Message
           hideLabel: true
           placeholder: Your message
           width: full
-          type: TextareaFormControl
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -443,16 +587,14 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
     badge:
-      label: Inquire
-      color: text-primary
       type: Badge
+      label: Contact Us
+      color: text-primary
     colors: bg-light-fg-dark
-    type: GenericSection
 seo:
-  metaTitle: Home - Goudeau Property Solutions
-  metaDescription: "Learn more about Goudeau Property Solutions and tay connected for future career opportunities."
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
