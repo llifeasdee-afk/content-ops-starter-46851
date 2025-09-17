@@ -63,8 +63,8 @@ sections:
         title: Security
         subtitle: ''
         text: >
-          Your property is protected with noise monitoring, Ring cameras at
-          every entry, and proactive oversight.
+          Your property is protected with entryway cameras, noise monitoring,
+          and proactive oversight.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
