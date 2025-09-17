@@ -248,8 +248,7 @@ sections:
           professionals who require short-to-medium term housing. These guests
           are carefully screened, ensuring your property is treated with the
           utmost respect.
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
