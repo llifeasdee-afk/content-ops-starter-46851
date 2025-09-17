@@ -193,8 +193,7 @@ sections:
           Our properties serve individuals and families relocating for work,
           education, or personal reasons. We also host long-term travelers who
           seek a stable, well-maintained environment during their stay.
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
