@@ -31,10 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog - Goudeau Property Solutions
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    "Insights, tips, and updates from Goudeau Property Solutions to help navigate property solutions with confidence."
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout

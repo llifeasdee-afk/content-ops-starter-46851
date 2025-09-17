@@ -116,8 +116,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Pricing - Goudeau Property Solutions
+  metaDescription: Discover how Goudeau Property Solutions delivers tailored property solutions through expertise.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
