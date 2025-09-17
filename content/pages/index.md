@@ -284,8 +284,8 @@ sections:
     subtitle: A Word From Our Founder
     items:
       - title: >-
-          I“Too often, property owners face uncertainty, vacancies, and stress.
-          I started Goudeau Property Solutions LLC to remove those
+          “Too often, property owners face uncertainty, vacancies, and stress. I
+          started Goudeau Property Solutions LLC to remove those
           challenges—guaranteeing income, protecting every asset, and delivering
           a hands-off experience landlords can rely on.”
         tagline: Founder Message
