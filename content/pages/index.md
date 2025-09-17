@@ -254,7 +254,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Custom
+        price: '3.'
         details: per month
         description: >
           We work with government employees, consultants, and specialized
