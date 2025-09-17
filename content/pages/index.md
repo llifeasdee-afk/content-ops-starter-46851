@@ -236,9 +236,11 @@ sections:
         title: Medical & Corporate Professionals
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          We provide housing for traveling nurses, doctors, and medical staff,
+          as well as business executives and corporate employees on temporary
+          assignments. These guests are reliable, responsible, and often booked
+          for extended stays.
         features: []
         image:
           type: ImageBlock
