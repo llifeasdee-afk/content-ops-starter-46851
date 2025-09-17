@@ -241,7 +241,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Government & Specialized Guests
-        price: '3.'
+        price: ''
         details: ''
         description: >
           We work with government employees, consultants, and specialized
