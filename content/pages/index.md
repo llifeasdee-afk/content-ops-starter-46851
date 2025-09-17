@@ -266,7 +266,6 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
