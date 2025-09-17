@@ -281,7 +281,10 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: A Word From Our Founder
+    subtitle: >-
+      Goudeau Property Solutions LLC was founded on a simple principle:
+      landlords should enjoy the rewards of property ownership without the
+      risks.
     items:
       - title: >-
           “Too often, property owners face uncertainty, vacancies, and stress. I
