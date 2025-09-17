@@ -250,7 +250,6 @@ sections:
           utmost respect.
         features:
           - Feature one
-          - Feature two
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
