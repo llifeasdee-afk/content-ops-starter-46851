@@ -253,7 +253,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: Government & Specialized Guests
         price: '3.'
         details: per month
         description: >
