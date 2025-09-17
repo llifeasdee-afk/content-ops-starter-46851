@@ -251,7 +251,6 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
