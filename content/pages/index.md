@@ -323,101 +323,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: More Reasons to Choose Us
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Let’s Work Together
-    items:
-      - title: Tenant Screening
-        tagline: ''
-        subtitle: Trust Starts With Who’s Inside
-        text: >
-          We ensure only qualified, respectful guests stay in your property with
-          strict vetting and monitoring.
-        image:
-          url: /images/tenant-screening-california.jpeg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Market Knowledge
-        tagline: ''
-        subtitle: 'Maximizing Value, Every Step'
-        text: >
-          Our expertise allows us to position your property competitively and
-          maximize its earning potential.
-        image:
-          url: /images/1728693200762.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Hands Off Experience
-        tagline: ''
-        subtitle: Returns Without the Headaches
-        text: >
-          From rent collection to maintenance, we handle everything—so you enjoy
-          returns without the stress.
-        image:
-          url: >-
-            /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: PricingSection
     title:
       type: TitleBlock
@@ -531,6 +436,101 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: More Reasons to Choose Us
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Let’s Work Together
+    items:
+      - title: Tenant Screening
+        tagline: ''
+        subtitle: Trust Starts With Who’s Inside
+        text: >
+          We ensure only qualified, respectful guests stay in your property with
+          strict vetting and monitoring.
+        image:
+          url: /images/tenant-screening-california.jpeg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Market Knowledge
+        tagline: ''
+        subtitle: 'Maximizing Value, Every Step'
+        text: >
+          Our expertise allows us to position your property competitively and
+          maximize its earning potential.
+        image:
+          url: /images/1728693200762.png
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Hands Off Experience
+        tagline: ''
+        subtitle: Returns Without the Headaches
+        text: >
+          From rent collection to maintenance, we handle everything—so you enjoy
+          returns without the stress.
+        image:
+          url: >-
+            /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: GenericSection
     title:
       type: TitleBlock
