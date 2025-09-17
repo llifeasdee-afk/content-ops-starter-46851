@@ -451,8 +451,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Goudeau Property Solutions
+  metaDescription: "Learn more about Goudeau Property Solutions and tay connected for future career opportunities."
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
