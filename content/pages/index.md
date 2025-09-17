@@ -222,7 +222,7 @@ sections:
       - type: PricingPlan
         title: Relocation & Long-Term Travelers
         price: ''
-        details: per month
+        details: ''
         description: >
           Our properties serve individuals and families relocating for work,
           education, or personal reasons. We also host long-term travelers who
