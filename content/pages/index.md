@@ -187,7 +187,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: Medical & Corporate Professionals
         details: No credit card required
         description: >
           We provide housing for traveling nurses, doctors, and medical staff,
