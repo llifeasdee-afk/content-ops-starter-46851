@@ -178,7 +178,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Who We House
       color: text-dark
       styles:
         self:
