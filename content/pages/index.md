@@ -186,34 +186,6 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Medical & Corporate Professionals
-        price: ''
-        details: ''
-        description: >
-          We provide housing for traveling nurses, doctors, and medical staff,
-          as well as business executives and corporate employees on temporary
-          assignments. These guests are reliable, responsible, and often booked
-          for extended stays.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Relocation & Long-Term Travelers
         price: ''
         details: ''
