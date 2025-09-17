@@ -9,12 +9,15 @@ sections:
       type: TitleBlock
     subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
     text: >
-      We transform rentals into worry-free investments.
+      At Goudeau Property Solutions LLC, we transform residential rentals into
+      reliable, worry-free investments. By leasing your property and managing
+      every detail of short-term rental operations, we guarantee consistent
+      income and total peace of mind.
 
-      Our team provides hands-on property management designed to protect your
-      asset, maximize returns, and deliver a seamless experience. With
-      guaranteed rent, advanced security, and ongoing property care, we make
-      ownership simple and stress-free.
+
+      Our model ensures predictable payments—sometimes months in advance—while
+      we handle everything from marketing to maintenance. With us, you receive
+      the benefits of ownership without the headaches of management.
     actions:
       - label: Get started
         altText: ''
