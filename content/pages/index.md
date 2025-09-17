@@ -186,7 +186,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Medical & Corporate Professionals
         price: ''
         details: No credit card required
         description: >
