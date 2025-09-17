@@ -418,59 +418,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Contact Us
-      color: text-dark
-      type: TitleBlock
-    subtitle: Partner With Confidence
-    text: >
-      With Goudeau Property Solutions LLC, your property is more than a
-      rental—it’s a secured, income-producing investment.
-
-
-      We guarantee your earnings, safeguard your asset, and manage every aspect
-      of operations.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-    badge:
-      label: Inquire
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
   - type: GenericSection
     title:
       type: TitleBlock
