@@ -184,8 +184,16 @@ sections:
       type: TitleBlock
     subtitle: A Committed Partner
     text: >
-      We don’t just manage—we partner. Our mission is to give landlords income
-      they can count on, security they can trust, and property care that lasts.
+      At Goudeau Property Solutions LLC, we go beyond traditional property
+      management. We don’t just collect rent or oversee tenants—we create a
+      partnership with landlords built on consistency, trust, and long-term
+      success.
+
+
+      Our approach guarantees predictable income, safeguards your property with
+      advanced protections, and ensures that every guest is carefully screened.
+      With us, you don’t just own a rental—you own a secured investment that
+      generates reliable returns while staying in excellent condition.
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
