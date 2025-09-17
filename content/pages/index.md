@@ -279,50 +279,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: >-
-      Goudeau Property Solutions LLC was founded on a simple principle:
-      landlords should enjoy the rewards of property ownership without the
-      risks.
-    items:
-      - title: >-
-          “Too often, property owners face uncertainty, vacancies, and stress. I
-          started Goudeau Property Solutions LLC to remove those
-          challenges—guaranteeing income, protecting every asset, and delivering
-          a hands-off experience landlords can rely on.”
-        tagline: Founder Message
-        subtitle: 'Demourion Goudeau, Founder'
-        text: ''
-        image:
-          url: /images/29485A25-F626-4AB3-811B-653859CB998C.PNG
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: PricingSection
     title:
       type: TitleBlock
@@ -430,6 +386,50 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    title: null
+    subtitle: >-
+      Goudeau Property Solutions LLC was founded on a simple principle:
+      landlords should enjoy the rewards of property ownership without the
+      risks.
+    items:
+      - title: >-
+          “Too often, property owners face uncertainty, vacancies, and stress. I
+          started Goudeau Property Solutions LLC to remove those
+          challenges—guaranteeing income, protecting every asset, and delivering
+          a hands-off experience landlords can rely on.”
+        tagline: Founder Message
+        subtitle: 'Demourion Goudeau, Founder'
+        text: ''
+        image:
+          url: /images/29485A25-F626-4AB3-811B-653859CB998C.PNG
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+    elementId: null
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
