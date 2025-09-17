@@ -189,9 +189,11 @@ sections:
         title: Developers
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          We provide housing for traveling nurses, doctors, and medical staff,
+          as well as business executives and corporate employees on temporary
+          assignments. These guests are reliable, responsible, and often booked
+          for extended stays.
         features:
           - Feature one
           - Feature two
