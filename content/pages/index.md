@@ -188,7 +188,7 @@ sections:
       - type: PricingPlan
         title: Medical & Corporate Professionals
         price: ''
-        details: No credit card required
+        details: ''
         description: >
           We provide housing for traveling nurses, doctors, and medical staff,
           as well as business executives and corporate employees on temporary
