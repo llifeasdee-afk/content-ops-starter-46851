@@ -196,7 +196,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Traveler.jpg
           altText: Pricing plan 2
         actions: []
         colors: bg-neutral-fg-dark
