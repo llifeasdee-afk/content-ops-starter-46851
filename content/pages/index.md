@@ -371,46 +371,6 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Schedule A Consultation
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      Take the first step toward stress-free property management. During this
-      call, we’ll discuss your property, your goals as a landlord, and how
-      Goudeau Property Solutions LLC can provide guaranteed income, reliable
-      security, and ongoing care.
-    actions:
-      - label: Get started
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: Learn More
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/7300.jpg.webp
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ThisTrusted by Landlords
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title:
       text: More Reasons to Choose Us
       color: text-primary
       styles:
@@ -505,6 +465,46 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - title:
+      text: Schedule A Consultation
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      Take the first step toward stress-free property management. During this
+      call, we’ll discuss your property, your goals as a landlord, and how
+      Goudeau Property Solutions LLC can provide guaranteed income, reliable
+      security, and ongoing care.
+    actions:
+      - label: Get started
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: Learn More
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/7300.jpg.webp
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ThisTrusted by Landlords
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
