@@ -186,6 +186,53 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
+        title: Relocation & Long-Term Travelers
+        price: ''
+        details: ''
+        description: >
+          Our properties serve individuals and families relocating for work,
+          education, or personal reasons. We also host long-term travelers who
+          seek a stable, well-maintained environment during their stay.
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/Traveler.jpg
+          altText: Pricing plan 2
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Government & Specialized Guests
+        price: ''
+        details: ''
+        description: >
+          We work with government employees, consultants, and specialized
+          professionals who require short-to-medium term housing. These guests
+          are carefully screened, ensuring your property is treated with the
+          utmost respect.
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/Goverment proff.jpg
+          altText: Pricing plan 3
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: Medical & Corporate Professionals
         price: ''
         details: ''
@@ -194,88 +241,12 @@ sections:
           as well as business executives and corporate employees on temporary
           assignments. These guests are reliable, responsible, and often booked
           for extended stays.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/medical prof.jpg
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Professional
-        price: $99
-        details: per month
-        description: >
-          Our properties serve individuals and families relocating for work,
-          education, or personal reasons. We also host long-term travelers who
-          seek a stable, well-maintained environment during their stay.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -344,46 +315,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
-  - title:
-      text: Schedule A Consultation
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      Take the first step toward stress-free property management. During this
-      call, we’ll discuss your property, your goals as a landlord, and how
-      Goudeau Property Solutions LLC can provide guaranteed income, reliable
-      security, and ongoing care.
-    actions:
-      - label: Get started
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: Learn More
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/7300.jpg.webp
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ThisTrusted by Landlords
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -534,64 +465,46 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic Section With A Form
+  - title:
+      text: Schedule A Consultation
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      Take the first step toward stress-free property management. During this
+      call, we’ll discuss your property, your goals as a landlord, and how
+      Goudeau Property Solutions LLC can provide guaranteed income, reliable
+      security, and ongoing care.
+    actions:
+      - label: Get started
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: Learn More
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+        type: Link
+    media:
+      url: /images/7300.jpg.webp
+      altText: Dope design preview
+      type: ImageBlock
     badge:
-      type: Badge
-      label: Contact Us
+      label: ThisTrusted by Landlords
       color: text-primary
+      type: Badge
     colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
