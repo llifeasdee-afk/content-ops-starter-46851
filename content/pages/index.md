@@ -220,7 +220,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Goverment proff.jpg
           altText: Pricing plan 3
         actions: []
         colors: bg-neutral-fg-dark
