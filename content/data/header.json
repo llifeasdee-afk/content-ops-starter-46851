@@ -16,7 +16,7 @@
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [],
-            "labelStyle": "primary",
+            "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
