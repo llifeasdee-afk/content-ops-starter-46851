@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Long-Term Investment
+    subtitle: '"Long-Term Value"'
     items:
       - type: FeaturedItem
         title: Security
