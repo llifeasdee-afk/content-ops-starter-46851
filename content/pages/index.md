@@ -118,7 +118,7 @@ sections:
           inspections, your property stays in excellent condition while
           preserving long-term value.
         image:
-          url: /images/favicon.svg
+          url: /images/abstract-feature2.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
