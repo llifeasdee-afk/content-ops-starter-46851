@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Smart Property Management
+    subtitle: Long-Term Investment
     items:
       - type: FeaturedItem
         title: Security
