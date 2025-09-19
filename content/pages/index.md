@@ -91,11 +91,6 @@ sections:
         text: >
           We guarantee consistent rent payments—always on time, sometimes months
           in advance—so you’ll never worry about vacancies or late tenants.
-        image:
-          url: /images/hero.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
