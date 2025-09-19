@@ -37,7 +37,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Terms",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
