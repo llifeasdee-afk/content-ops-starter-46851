@@ -22,7 +22,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "https://docs.google.com/document/d/10QLtXg60Wf5sKcdd6iyee9Sycf4VqQX0Judor5It4MQ/edit?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,7 +30,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "https://docs.google.com/document/d/1HKvidgyak7UEI26R1L8fxz44XUqFBUeBU3Gom7-tf64/edit?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
