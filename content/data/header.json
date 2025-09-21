@@ -13,11 +13,45 @@
     },
     "primaryLinks": [
         {
+            "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Privacy Policy",
+                    "altText": "",
+                    "url": "https://docs.google.com/document/d/1HKvidgyak7UEI26R1L8fxz44XUqFBUeBU3Gom7-tf64/edit?usp=sharing",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Terms of Service",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Get Started",
+                    "altText": "",
+                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [

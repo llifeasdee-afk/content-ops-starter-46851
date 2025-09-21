@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Smart Property Management
+    subtitle: '"Long-Term Value"'
     items:
       - type: FeaturedItem
         title: Security
@@ -494,9 +494,8 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
-  metaTitle: "Welcome to Goudeau Property Solutions."
-  addTitleSuffix: false
-  metaDescription: Learn more about Goudeau Property Solutions and stay connected.
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
