@@ -494,8 +494,9 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: "Welcome to Goudeau Property Solutions."
+  addTitleSuffix: false
+  metaDescription: Learn more about Goudeau Property Solutions and stay connected.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
