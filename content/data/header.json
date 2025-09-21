@@ -13,13 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "",
-            "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
