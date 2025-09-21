@@ -176,7 +176,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Providing Homes for Every Tenant’s Needs
     plans:
       - type: PricingPlan
         title: Relocation & Long-Term Travelers
