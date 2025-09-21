@@ -7,7 +7,7 @@ sections:
       text: GOUDEAU PROPERTY SOLUTIONS LLC
       color: text-dark
       type: TitleBlock
-    subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
+    subtitle: 'ELEVATING PROPERTIES, MAXIMIZING POTENTIAL.'
     text: >
       At Goudeau Property Solutions LLC, we transform residential rentals into
       reliable, worry-free investments. By leasing your property and managing
@@ -176,7 +176,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Providing Homes for Every Tenant’s Needs
     plans:
       - type: PricingPlan
         title: Relocation & Long-Term Travelers
