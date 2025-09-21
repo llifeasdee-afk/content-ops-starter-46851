@@ -22,7 +22,7 @@
                     "label": "Privacy Policy",
                     "altText": "",
                     "url": "https://docs.google.com/document/d/1HKvidgyak7UEI26R1L8fxz44XUqFBUeBU3Gom7-tf64/edit?usp=sharing",
-                    "showIcon": false,
+                    "showIcon": true,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
