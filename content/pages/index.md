@@ -473,7 +473,7 @@ sections:
         type: Button
       - label: Learn More
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSfWFdOnGz8o2Z4NAFgl138HEBUSQKCBkB7beeTeoOjwj7oVfQ/viewform?usp=dialog
         showIcon: true
         icon: arrowRight
         iconPosition: right
