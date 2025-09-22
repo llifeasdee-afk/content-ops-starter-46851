@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/favicon.ico",
     "footer": "content/data/footer.json",
     "titleSuffix": "Goudeau Property Solutions",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/android-icon-192x192.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
