@@ -22,7 +22,7 @@ sections:
       - label: Get started
         altText: ''
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
         showIcon: false
         icon: arrowRight
         iconPosition: right
