@@ -22,7 +22,7 @@ sections:
       - label: Get started
         altText: ''
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -132,7 +132,7 @@ sections:
         label: Get started
         altText: ''
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -466,14 +466,14 @@ sections:
     actions:
       - label: Get started
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
       - label: Learn More
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSfWFdOnGz8o2Z4NAFgl138HEBUSQKCBkB7beeTeoOjwj7oVfQ/viewform?usp=dialog
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -494,9 +494,8 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
-  metaTitle: Home - Welcome to Goudeau Property Solutions
-  addTitleSuffix: false
-  metaDescription: Learn More About Goudeau Property Solutions
+  metaTitle: Home - Demo site
+  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

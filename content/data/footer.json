@@ -14,7 +14,7 @@
         },
         {
             "altText": "Email link",
-            "url": "<a href=\"mailto:demourion@icloud.com\">Email Us</a>",
+            "url": "info.goudeaupropertysolutions@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
@@ -22,7 +22,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "https://docs.google.com/document/d/10QLtXg60Wf5sKcdd6iyee9Sycf4VqQX0Judor5It4MQ/edit?usp=sharing",
+            "url": "https://docs.google.com/document/d/1yK5ob0lo_euJnRdi2vQgCVujctX_Sd0XHy5TyppssVg/edit?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,7 +30,7 @@
         },
         {
             "label": "Privacy",
-            "url": "https://docs.google.com/document/d/1HKvidgyak7UEI26R1L8fxz44XUqFBUeBU3Gom7-tf64/edit?usp=sharing",
+            "url": "https://docs.google.com/document/d/1qN3orHqQ4PR7ha9yUaBpFKGoJ0N0wfiHLGSv7tiQigY/edit?usp=sharing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
