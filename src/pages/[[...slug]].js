@@ -33,6 +33,19 @@ function Page(props) {
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
+                {site.titleSuffix && site.defaultSocialImage && (
+                    <script
+                        type="application/ld+json"
+                        dangerouslySetInnerHTML={{
+                            __html: JSON.stringify({
+                                "@context": "https://schema.org",
+                                "@type": "Organization",
+                                "name": site.titleSuffix,
+                                "logo": site.defaultSocialImage
+                            })
+                        }}
+                    />
+                )}
             </Head>
             <PageLayout page={page} site={site} />
         </>

@@ -3,6 +3,16 @@
     "footer": "content/data/footer.json",
     "titleSuffix": "Goudeau Property Solutions",
     "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultMetaTags": [
+        {
+            "property": "og:site_name",
+            "content": "Goudeau Property Solutions"
+        },
+        {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+        }
+    ],
     "type": "Config",
     "header": "content/data/header.json"
 }
