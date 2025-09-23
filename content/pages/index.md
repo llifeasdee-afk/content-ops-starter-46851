@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome to Goudeau Property Solutions
 slug: /
 sections:
   - type: GenericSection
@@ -494,8 +494,14 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
+<<<<<<< HEAD
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
+=======
+  metaTitle: Welcome to Goudeau Property Solutions
+  addTitleSuffix: false
+  metaDescription: 'Learn more about Goudeau Property Solutions and stay connected for future career opportunities.'
+>>>>>>> cab1f0a (Site: update home SEO title to 'Welcome to Goudeau Property Solutions' and disable suffix)
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
