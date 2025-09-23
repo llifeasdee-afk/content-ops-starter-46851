@@ -1,5 +1,5 @@
 ---
-title: Welcome to Goudeau Property Solutions
+title: Home - Welcome to Goudeau Property Solutions.
 slug: /
 sections:
   - type: GenericSection
@@ -7,7 +7,7 @@ sections:
       text: GOUDEAU PROPERTY SOLUTIONS LLC
       color: text-dark
       type: TitleBlock
-    subtitle: 'ELEVATING PROPERTIES, MAXIMIZING POTENTIAL.'
+    subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
     text: >
       At Goudeau Property Solutions LLC, we transform residential rentals into
       reliable, worry-free investments. By leasing your property and managing
@@ -22,7 +22,7 @@ sections:
       - label: Get started
         altText: ''
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: '"Long-Term Value"'
+    subtitle: Smart Property Management
     items:
       - type: FeaturedItem
         title: Security
@@ -83,6 +83,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
+          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
@@ -91,6 +92,11 @@ sections:
         text: >
           We guarantee consistent rent payments—always on time, sometimes months
           in advance—so you’ll never worry about vacancies or late tenants.
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -112,6 +118,7 @@ sections:
           inspections, your property stays in excellent condition while
           preserving long-term value.
         image:
+          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -132,7 +139,7 @@ sections:
         label: Get started
         altText: ''
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -176,7 +183,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Providing Homes for Every Tenant’s Needs
+    subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
         title: Relocation & Long-Term Travelers
@@ -264,11 +271,16 @@ sections:
       type: TitleBlock
     subtitle: A Committed Partner
     text: >
-      At Goudeau Property Solutions LLC, we don’t just lease your home—we
-      elevate it. We keep your property maintained to hospitality standards,
-      protect its long-term value, and provide consistent, professional
-      oversight. With us, you gain more than a tenant—you gain a dependable
-      partner dedicated to maximizing your investment.
+      At Goudeau Property Solutions LLC, we go beyond traditional property
+      management. We don’t just collect rent or oversee tenants—we create a
+      partnership with landlords built on consistency, trust, and long-term
+      success.
+
+
+      Our approach guarantees predictable income, safeguards your property with
+      advanced protections, and ensures that every guest is carefully screened.
+      With us, you don’t just own a rental—you own a secured investment that
+      generates reliable returns while staying in excellent condition.
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
@@ -322,10 +334,10 @@ sections:
       risks.
     items:
       - title: >-
-          "Too often, property owners face uncertainty, vacancies, and stress. I
-          started Goudeau Property Solutions LLC to remove those challenges by
-          guaranteeing income, protecting every asset, and delivering a
-          hands-off experience landlords can rely on."
+          “Too often, property owners face uncertainty, vacancies, and stress. I
+          started Goudeau Property Solutions LLC to remove those
+          challenges—guaranteeing income, protecting every asset, and delivering
+          a hands-off experience landlords can rely on.”
         tagline: Founder Message
         subtitle: 'Demourion Goudeau, Founder'
         text: ''
@@ -466,14 +478,14 @@ sections:
     actions:
       - label: Get started
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSejqWfZWMlZd75WRrKjm2nTXS8jzQQ07q-3JZcrfLP6FUwprA/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
       - label: Learn More
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfWFdOnGz8o2Z4NAFgl138HEBUSQKCBkB7beeTeoOjwj7oVfQ/viewform?usp=dialog
+          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -494,14 +506,8 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
-<<<<<<< HEAD
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-=======
-  metaTitle: Welcome to Goudeau Property Solutions
-  addTitleSuffix: false
-  metaDescription: 'Learn more about Goudeau Property Solutions and stay connected for future career opportunities.'
->>>>>>> cab1f0a (Site: update home SEO title to 'Welcome to Goudeau Property Solutions' and disable suffix)
+  metaTitle: Home - Goudeau Property Solutions
+  metaDescription: 'Learn more about Goudeau Property Solutions and tay connected for future career opportunities.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
