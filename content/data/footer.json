@@ -14,7 +14,7 @@
         },
         {
             "altText": "Email link",
-            "url": "info.goudeaupropertysolutions@gmail.com",
+            "url": "info@goudeaupropertysolutions.com",
             "icon": "mail",
             "type": "Social"
         }
@@ -37,7 +37,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "© 2025 Goudeau Property Solutions. All Rights Reserved.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

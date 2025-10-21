@@ -74,7 +74,7 @@ export function seoGenerateOgImage(page, site) {
         ogImage = page.seo?.socialImage;
     }
 
-    // ogImage should use an absolute URL. Get the Netlify domain URL from the Netlify environment variable process.env.URL
+    // ogImage should use an absolute URL. Get the site's deployment URL from environment if available
     const domainUrl = site.env?.URL ? site.env.URL : null;
 
     if (ogImage) {

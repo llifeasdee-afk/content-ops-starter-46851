@@ -1,5 +1,5 @@
 ---
-title: Home - Welcome to Goudeau Property Solutions.
+title: Goudeau Property Solutions
 slug: /
 sections:
   - type: GenericSection
@@ -451,8 +451,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Goudeau Property Solutions
-  metaDescription: 'Learn more about Goudeau Property Solutions and tay connected for future career opportunities.'
+  metaTitle: Goudeau Property Solutions | Helping Homeowners Earn from Their Properties.
+  addTitleSuffix: false
+  metaDescription: 'Goudeau Property Solutions helps homeowners unlock income potential by turning their properties into profitable short-term rentals—without the hassle of managing them.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

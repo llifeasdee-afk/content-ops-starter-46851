@@ -1,23 +1,17 @@
 ---
-title: Home - Welcome to Goudeau Property Solutions.
+title: Goudeau Property Solutions
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: GOUDEAU PROPERTY SOLUTIONS LLC
+      text: Goudeau Property Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: ELEVATING PROPERTIES. MAXIMIZING POTENTIAL.
+    subtitle: Turning Your Property Into a Profitable Asset
     text: >
-      At Goudeau Property Solutions LLC, we transform residential rentals into
-      reliable, worry-free investments. By leasing your property and managing
-      every detail of short-term rental operations, we guarantee consistent
-      income and total peace of mind.
-
-
-      Our model ensures predictable payments—sometimes months in advance—while
-      we handle everything from marketing to maintenance. With us, you receive
-      the benefits of ownership without the headaches of management.
+      We help homeowners earn consistent income from their properties through
+      smart short-term rental partnerships—without the stress of handling it
+      themselves.
     actions:
       - label: Get started
         altText: ''
@@ -167,12 +161,11 @@ sections:
         textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
+        subtitle: Ready to get started
+        text: >
+          Ready to start earning from your property? Contact Goudeau Property
+          Solutions today to learn how we can help you turn your home into a
+          consistent source of income.
           - pr-7
     type: DividerSection
   - type: PricingSection
@@ -263,24 +256,19 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Why Work With Us
+      text: About
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Committed Partner
+    subtitle: Who We Are
     text: >
-      At Goudeau Property Solutions LLC, we go beyond traditional property
-      management. We don’t just collect rent or oversee tenants—we create a
-      partnership with landlords built on consistency, trust, and long-term
-      success.
-
-
-      Our approach guarantees predictable income, safeguards your property with
-      advanced protections, and ensures that every guest is carefully screened.
-      With us, you don’t just own a rental—you own a secured investment that
-      generates reliable returns while staying in excellent condition.
+      At Goudeau Property Solutions, we partner with homeowners to transform
+      properties into reliable income sources through short-term rentals. Our
+      team handles the setup, presentation, and ongoing operations so you can
+      earn more from your home with ease and confidence.
+    type: GenericSection
     media:
       title: Title of the video
       url: 'https://vimeo.com/1118407636?share=copy'
@@ -387,7 +375,7 @@ sections:
           strict vetting and monitoring.
         image:
           url: /images/tenant-screening-california.jpeg
-          altText: Placeholder Image
+          altText: Goudeau Property Solutions image
           styles:
             self:
               borderRadius: x-large
@@ -408,88 +396,53 @@ sections:
         subtitle: 'Maximizing Value, Every Step'
         text: >
           Our expertise allows us to position your property competitively and
-          maximize its earning potential.
-        image:
-          url: /images/1728693200762.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Hands Off Experience
-        tagline: ''
-        subtitle: Returns Without the Headaches
-        text: >
-          From rent collection to maintenance, we handle everything—so you enjoy
-          returns without the stress.
-        image:
-          url: >-
-            /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Schedule A Consultation
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      Take the first step toward stress-free property management. During this
-      call, we’ll discuss your property, your goals as a landlord, and how
-      Goudeau Property Solutions LLC can provide guaranteed income, reliable
-      security, and ongoing care.
-    actions:
-      - label: Get started
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSc0WaypRko9PrPUl_htCLB8VpK-T1It1uTius27ciJbCiWi5A/viewform?usp=dialog
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: Learn More
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSctTqNo1bl_wjKkrOktKfrNFxHzrRGqWa0Z6gYyik52AjW_JQ/viewform?usp=dialog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+          - title:
+              text: Our Services
+              color: text-dark
+              styles:
+                self:
+                  textAlign: center
+              type: TitleBlock
+            subtitle: What We Do
+            items:
+              - title: Partnership Opportunities
+                subtitle: Collaborate with us to generate steady income from your property.
+                text: >
+                  Collaborate with us to generate steady income from your property.
+                image:
+                  url: /images/icon1.svg
+                  altText: Goudeau Property Solutions image
+                  type: ImageBlock
+                type: FeaturedItem
+              - title: Setup & Preparation
+                subtitle: We take care of design, setup, and listing presentation.
+                text: >
+                  We take care of design, setup, and listing presentation to attract
+                  quality guests.
+                image:
+                  url: /images/icon2.svg
+                  altText: Goudeau Property Solutions image
+                  type: ImageBlock
+                type: FeaturedItem
+              - title: Marketing & Coordination
+                subtitle: We manage listings and bookings.
+                text: >
+                  We manage listings, bookings, and guest communication efficiently.
+                image:
+                  url: /images/icon3.svg
+                  altText: Goudeau Property Solutions image
+                  type: ImageBlock
+                type: FeaturedItem
+              - title: Property Care & Oversight
+                subtitle: Maintenance & oversight
+                text: >
+                  We maintain your property’s condition and ensure it performs at its
+                  best.
+                image:
+                  url: /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
+                  altText: Goudeau Property Solutions image
+                  type: ImageBlock
+                type: FeaturedItem
         type: Link
     media:
       url: /images/7300.jpg.webp
@@ -506,8 +459,9 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
 seo:
-  metaTitle: Home - Goudeau Property Solutions
-  metaDescription: 'Learn more about Goudeau Property Solutions and tay connected for future career opportunities.'
+  metaTitle: Goudeau Property Solutions | Helping Homeowners Earn from Their Properties.
+  addTitleSuffix: false
+  metaDescription: 'Goudeau Property Solutions helps homeowners unlock income potential by turning their properties into profitable short-term rentals—without the hassle of managing them.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
