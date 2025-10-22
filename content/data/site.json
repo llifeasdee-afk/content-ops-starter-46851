@@ -1,5 +1,5 @@
 {
-    "favicon": "/favicon-32x32.png",
+    "favicon": "/images/logo-dark.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "Goudeau Property Solutions LLC",
     "defaultSocialImage": "/android-icon-192x192.png",
