@@ -13,7 +13,9 @@ export function seoGenerateMetaTags(page, site) {
     pageMetaTags = {
         ...pageMetaTags,
         ...(seoTitle && { 'og:title': seoTitle }),
-        ...(ogImage && { 'og:image': ogImage })
+        ...(ogImage && { 'og:image': ogImage }),
+        // include site name for Open Graph if available
+        ...((site.titleSuffix || site.title) && { 'og:site_name': site.titleSuffix || site.title })
     };
 
     if (page.seo?.metaTags?.length) {
