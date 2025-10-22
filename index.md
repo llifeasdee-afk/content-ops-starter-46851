@@ -38,12 +38,12 @@ sections:
     elementId: ''
     colors: bg-light-fg-dark
     styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
+      seo:
+        metaTitle: Goudeau Property Solutions LLC
+        addTitleSuffix: false
+        metaDescription: 'At Goudeau Property Solutions, we transform residential rentals into reliable, worry-free investments.'
+        socialImage: /images/main-hero.jpg
+        type: Seo
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
