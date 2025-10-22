@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-# Netlify Visual Editor (formerly Stackbit)
+# Visual editor cache
 .stackbit/cache
 .cache
 

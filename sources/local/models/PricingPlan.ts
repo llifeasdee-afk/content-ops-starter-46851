@@ -131,7 +131,7 @@ export const PricingPlan: Model = {
             type: 'style',
             name: 'styles',
             label: 'Styles',
-            description: 'The styles field is controlled by Netlify Create editor',
+            description: 'The styles field is controlled by the visual editor',
             required: false,
             hidden: false,
             localized: false,

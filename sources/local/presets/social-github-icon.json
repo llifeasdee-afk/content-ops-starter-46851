@@ -6,7 +6,7 @@
       "thumbnail": "images/social-github-icon-c23d.png",
       "data": {
         "altText": "GitHub link",
-        "url": "https://github.com/netlify",
+  "url": "https://github.com/your-company",
         "icon": "github",
         "elementId": ""
       }

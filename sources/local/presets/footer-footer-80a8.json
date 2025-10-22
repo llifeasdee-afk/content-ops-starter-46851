@@ -85,27 +85,6 @@
                 },
                 "socialLinks": [
                     {
-                        "altText": "GitHub link",
-                        "url": "https://github.com/netlify",
-                        "icon": "github",
-                        "elementId": null,
-                        "$$type": "Social"
-                    },
-                    {
-                        "altText": "Twitter link",
-                        "url": "https://twitter.com/netlify",
-                        "icon": "twitter",
-                        "elementId": null,
-                        "$$type": "Social"
-                    },
-                    {
-                        "altText": "LinkedIn link",
-                        "url": "https://www.linkedin.com/company/netlify",
-                        "icon": "linkedin",
-                        "elementId": null,
-                        "$$type": "Social"
-                    },
-                    {
                         "altText": "Email link",
                         "url": "/",
                         "icon": "mail",
@@ -137,7 +116,7 @@
                         "$$type": "Link"
                     }
                 ],
-                "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+                "copyrightText": "© 2025 Goudeau Property Solutions. All Rights Reserved.",
                 "colors": "bg-dark-fg-light",
                 "styles": null
             },

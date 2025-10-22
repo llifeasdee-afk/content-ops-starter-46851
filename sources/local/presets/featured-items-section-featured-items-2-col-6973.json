@@ -21,7 +21,7 @@
                         "title": "Feature Item One",
                         "tagline": "This is the tagline",
                         "subtitle": "This is the item subtitle",
-                        "text": "Follow the tutorial to build your first Netlify Create site.\n",
+                        "text": "Follow the tutorial to build your first site.\n",
                         "image": {
                             "url": "/images/abstract-feature1.svg",
                             "altText": "Background alt text",
@@ -54,7 +54,7 @@
                         "title": "Feature Item Two",
                         "tagline": "This is the tagline",
                         "subtitle": "This is the item subtitle",
-                        "text": "Follow the tutorial to build your first awesome Netlify Create site.\n",
+                        "text": "Follow the tutorial to build your first awesome site.\n",
                         "image": {
                             "url": "/images/abstract-feature2.svg",
                             "altText": "Background alt text",
@@ -87,7 +87,7 @@
                         "title": "Feature Item Three",
                         "tagline": "This is the tagline",
                         "subtitle": "This is the item subtitle",
-                        "text": "Learn from the tutorial and build your first awesome Netlify site.\n",
+                        "text": "Learn from the tutorial and build your first awesome site.\n",
                         "image": {
                             "url": "/images/abstract-feature3.svg",
                             "altText": "Background alt text",

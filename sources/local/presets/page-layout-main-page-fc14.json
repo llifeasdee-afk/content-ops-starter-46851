@@ -16,7 +16,7 @@
                             "$$type": "TitleBlock"
                         },
                         "subtitle": "Subtitle goes here",
-                        "text": "A Netlify website is a git repo that you own. Every code commit is instantly reflected in the visual editor and since every visual edit is a git commit, git workflows and collaboration just work.\n",
+                        "text": "A website is a git repo that you own. Every code commit is instantly reflected in the visual editor and since every visual edit is a git commit, git workflows and collaboration just work.\n",
                         "actions": [
                             {
                                 "label": "Get started",
@@ -579,7 +579,7 @@
                                 "$$type": "FeaturedItem"
                             },
                             {
-                                "title": "“Quote from some important person goes right here. I love using Netlify.”",
+                                    "title": "“Quote from some important person goes right here.”",
                                 "tagline": "Testimonial 2",
                                 "subtitle": "Jane Doe, Company",
                                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
@@ -641,7 +641,7 @@
                                 "title": "Feature Item One",
                                 "tagline": "This is the tagline",
                                 "subtitle": "This is the item subtitle",
-                                "text": "Follow the tutorial to build your first Netlify site.\n",
+                                "text": "Follow the tutorial to build your first site.\n",
                                 "image": {
                                     "url": "/images/abstract-feature1.svg",
                                     "altText": "Placholder image",
@@ -669,7 +669,7 @@
                                 "title": "Feature Item Two",
                                 "tagline": "This is the tagline",
                                 "subtitle": "This is the item subtitle",
-                                "text": "Follow the tutorial to build your first awesome Netlify site.\n",
+                                "text": "Follow the tutorial to build your first awesome site.\n",
                                 "image": {
                                     "url": "/images/abstract-feature2.svg",
                                     "altText": "Placeholder image",
@@ -697,7 +697,7 @@
                                 "title": "Feature Item Three",
                                 "tagline": "This is the tagline",
                                 "subtitle": "This is the item subtitle",
-                                "text": "Learn from the tutorial and build your first awesome Netlify site.\n",
+                                "text": "Learn from the tutorial and build your first awesome site.\n",
                                 "image": {
                                     "url": "/images/abstract-feature3.svg",
                                     "altText": "Placeholder image",
